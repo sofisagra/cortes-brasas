@@ -464,7 +464,7 @@ def sidebar(data: dict) -> None:
     st.sidebar.markdown("**Boutique de carnes**")
     st.sidebar.caption("Una experiencia de compra más personalizada")
     st.sidebar.divider()
-    st.sidebar.success("Modo demostración · SIN IA")
+    st.sidebar.success("Modo demostración · Using AI")
     st.sidebar.write("Todo el catálogo se carga desde **productos.json** (misma carpeta que app.py).")
     st.sidebar.metric("Productos en catálogo", str(len(data["productos"])))
     st.sidebar.metric("Productos disponibles", str(sum(p["disponible"] for p in data["productos"])))
