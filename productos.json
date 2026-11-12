@@ -1,0 +1,1065 @@
+{
+  "tienda": {
+    "nombre": "Cortes & Brasas",
+    "subtitulo": "BOUTIQUE DE CARNES",
+    "moneda": "CRC",
+    "whatsapp": ""
+  },
+  "configuracion": {
+    "precios_son_demo": true,
+    "incremento_compra_kg": 0.25,
+    "nota": "CATÁLOGO DE DEMOSTRACIÓN. Sustituir precios, disponibilidad y ficha nutricional antes de uso comercial. stock_kg null significa stock no verificado.",
+    "descripcion_version": "V2: demostracion SIN IA; el catalogo y las recetas se consultan localmente desde este archivo."
+  },
+  "productos": [
+    {
+      "sku": "R01",
+      "producto": "Carne para mechar",
+      "categoria": "Res",
+      "precio_kg_crc": 8300,
+      "proteina_100g": 21,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "La base para cocinar una vez y crear varias recetas.",
+      "usos": [
+        "Chalupas",
+        "Tacos",
+        "Burritos"
+      ],
+      "etiquetas": [
+        "Versátil",
+        "Meal prep"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Chalupas de carne mechada",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "tortillas tostadas",
+            "repollo",
+            "tomate",
+            "frijoles",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná y desmechá bien la carne.",
+            "Calentá la carne con sazón al gusto.",
+            "Armá las chalupas con vegetales y frijoles."
+          ]
+        },
+        {
+          "nombre": "Tacos de carne mechada",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "tortillas de maíz",
+            "cebolla",
+            "cilantro",
+            "limón"
+          ],
+          "pasos": [
+            "Calentá la carne mechada ya cocida.",
+            "Dorar ligeramente las tortillas.",
+            "Armá con cebolla, cilantro y limón."
+          ]
+        },
+        {
+          "nombre": "Burritos de carne mechada",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas grandes",
+            "arroz",
+            "frijoles",
+            "tomate"
+          ],
+          "pasos": [
+            "Prepará arroz y frijoles.",
+            "Cociná o recalentá la carne a temperatura segura.",
+            "Rellená las tortillas y enrollá los burritos."
+          ]
+        },
+        {
+          "nombre": "Bowl de carne mechada",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "arroz",
+            "aguacate",
+            "zanahoria",
+            "pepino"
+          ],
+          "pasos": [
+            "Prepará el arroz.",
+            "Calentá la carne ya cocida.",
+            "Serví con vegetales y aguacate."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "R02",
+      "producto": "Carne molida magra",
+      "categoria": "Res",
+      "precio_kg_crc": 7900,
+      "proteina_100g": 21,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Fácil de porcionar para recetas rápidas.",
+      "usos": [
+        "Albóndigas",
+        "Tacos",
+        "Pasta"
+      ],
+      "etiquetas": [
+        "Fácil de preparar"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Tacos de carne molida",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "tortillas",
+            "tomate",
+            "cebolla",
+            "cilantro"
+          ],
+          "pasos": [
+            "Sofreí cebolla y tomate.",
+            "Agregá y cociná completamente la carne molida.",
+            "Serví en tortillas."
+          ]
+        },
+        {
+          "nombre": "Albóndigas en salsa",
+          "minutos": 40,
+          "ingredientes_extra": [
+            "salsa de tomate",
+            "avena",
+            "cebolla",
+            "arroz"
+          ],
+          "pasos": [
+            "Formá albóndigas con la carne y avena.",
+            "Cociná completamente en salsa de tomate.",
+            "Acompañá con arroz."
+          ]
+        },
+        {
+          "nombre": "Bowl de res con vegetales",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "arroz",
+            "brócoli",
+            "zanahoria",
+            "ajo"
+          ],
+          "pasos": [
+            "Cociná la carne molida con ajo.",
+            "Salteá vegetales hasta que estén cocidos.",
+            "Serví sobre arroz."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "R03",
+      "producto": "Bistec de res",
+      "categoria": "Res",
+      "precio_kg_crc": 10500,
+      "proteina_100g": 22,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Para la plancha, tiras salteadas y almuerzos completos.",
+      "usos": [
+        "Fajitas",
+        "Casado",
+        "Salteados"
+      ],
+      "etiquetas": [
+        "Cocción rápida"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Bistec encebollado",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "cebolla",
+            "arroz",
+            "ensalada"
+          ],
+          "pasos": [
+            "Sazoná y cociná el bistec al punto seguro.",
+            "Dorar cebolla en el sartén.",
+            "Serví con arroz y ensalada."
+          ]
+        },
+        {
+          "nombre": "Fajitas de res",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "chile dulce",
+            "cebolla",
+            "tortillas"
+          ],
+          "pasos": [
+            "Cortá el bistec en tiras.",
+            "Salteá con chile y cebolla.",
+            "Serví con tortillas."
+          ]
+        },
+        {
+          "nombre": "Bowl de bistec",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "zanahoria",
+            "brócoli"
+          ],
+          "pasos": [
+            "Cociná el bistec en tiras.",
+            "Salteá vegetales y cociná el arroz.",
+            "Combiná los ingredientes."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "R04",
+      "producto": "Lomito de res",
+      "categoria": "Res",
+      "precio_kg_crc": 17500,
+      "proteina_100g": 22,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Corte suave para ocasiones especiales.",
+      "usos": [
+        "Medallones",
+        "Bowl",
+        "Parrilla"
+      ],
+      "etiquetas": [
+        "Premium"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Lomito de res a la parrilla",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "papas",
+            "ensalada",
+            "ajo"
+          ],
+          "pasos": [
+            "Sazoná lomito de res.",
+            "Cociná de forma segura a la plancha o parrilla.",
+            "Serví con papas y ensalada."
+          ]
+        },
+        {
+          "nombre": "Bowl con lomito de res",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "aguacate",
+            "vegetales"
+          ],
+          "pasos": [
+            "Cociná el corte y cortalo en porciones.",
+            "Prepará el arroz y los vegetales.",
+            "Armá el bowl."
+          ]
+        },
+        {
+          "nombre": "Tacos con lomito de res",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná bien la carne y cortala en tiras.",
+            "Calentá las tortillas.",
+            "Armá tacos con vegetales."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "R05",
+      "producto": "Entraña de res",
+      "categoria": "Res",
+      "precio_kg_crc": 14200,
+      "proteina_100g": 21,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Protagonista de una buena parrillada.",
+      "usos": [
+        "Parrilla",
+        "Tacos",
+        "Bowl"
+      ],
+      "etiquetas": [
+        "Parrilla"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Entraña de res a la parrilla",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "papas",
+            "ensalada",
+            "ajo"
+          ],
+          "pasos": [
+            "Sazoná entraña de res.",
+            "Cociná de forma segura a la plancha o parrilla.",
+            "Serví con papas y ensalada."
+          ]
+        },
+        {
+          "nombre": "Bowl con entraña de res",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "aguacate",
+            "vegetales"
+          ],
+          "pasos": [
+            "Cociná el corte y cortalo en porciones.",
+            "Prepará el arroz y los vegetales.",
+            "Armá el bowl."
+          ]
+        },
+        {
+          "nombre": "Tacos con entraña de res",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná bien la carne y cortala en tiras.",
+            "Calentá las tortillas.",
+            "Armá tacos con vegetales."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "R06",
+      "producto": "Punta de solomo",
+      "categoria": "Res",
+      "precio_kg_crc": 12400,
+      "proteina_100g": 21,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Ideal para cortes a la plancha y preparaciones al horno.",
+      "usos": [
+        "Parrilla",
+        "Horno",
+        "Bistec"
+      ],
+      "etiquetas": [
+        "Parrilla"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Punta de solomo a la parrilla",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "papas",
+            "ensalada",
+            "ajo"
+          ],
+          "pasos": [
+            "Sazoná punta de solomo.",
+            "Cociná de forma segura a la plancha o parrilla.",
+            "Serví con papas y ensalada."
+          ]
+        },
+        {
+          "nombre": "Bowl con punta de solomo",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "aguacate",
+            "vegetales"
+          ],
+          "pasos": [
+            "Cociná el corte y cortalo en porciones.",
+            "Prepará el arroz y los vegetales.",
+            "Armá el bowl."
+          ]
+        },
+        {
+          "nombre": "Tacos con punta de solomo",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná bien la carne y cortala en tiras.",
+            "Calentá las tortillas.",
+            "Armá tacos con vegetales."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "P01",
+      "producto": "Pechuga de pollo",
+      "categoria": "Pollo",
+      "precio_kg_crc": 5600,
+      "proteina_100g": 23,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Una proteína muy adaptable a recetas semanales.",
+      "usos": [
+        "Bowl",
+        "Fajitas",
+        "Wraps"
+      ],
+      "etiquetas": [
+        "Versátil"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Fajitas de pollo al limón",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "chile dulce",
+            "cebolla",
+            "limón",
+            "tortillas"
+          ],
+          "pasos": [
+            "Cortá la pechuga en tiras.",
+            "Salteá junto a cebolla y chile dulce hasta cocción completa.",
+            "Serví con tortillas y limón."
+          ]
+        },
+        {
+          "nombre": "Bowl de pollo y arroz",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "aguacate",
+            "pepino",
+            "zanahoria"
+          ],
+          "pasos": [
+            "Cociná la pechuga completamente.",
+            "Prepará el arroz y picá los vegetales.",
+            "Armá el bowl y serví."
+          ]
+        },
+        {
+          "nombre": "Wrap de pollo",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "tortillas grandes",
+            "lechuga",
+            "tomate",
+            "yogur natural"
+          ],
+          "pasos": [
+            "Prepará el pollo completamente y cortalo.",
+            "Mezclá yogur con especias para una salsa.",
+            "Enrollá con lechuga y tomate."
+          ]
+        },
+        {
+          "nombre": "Pollo con hierbas",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "romero",
+            "limón"
+          ],
+          "pasos": [
+            "Sazoná el pollo con ajo y hierbas.",
+            "Cociná completamente al horno o sartén.",
+            "Serví con papas cocidas."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "P02",
+      "producto": "Muslo de pollo deshuesado",
+      "categoria": "Pollo",
+      "precio_kg_crc": 4750,
+      "proteina_100g": 19,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Jugoso para sartén, horno y tortillas.",
+      "usos": [
+        "Tacos",
+        "Horno",
+        "Arroz"
+      ],
+      "etiquetas": [
+        "Sabroso"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Muslo de pollo deshuesado al horno",
+          "minutos": 45,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "limón"
+          ],
+          "pasos": [
+            "Sazoná el pollo.",
+            "Horneá hasta que alcance cocción completa.",
+            "Serví con papas."
+          ]
+        },
+        {
+          "nombre": "Tacos de muslo de pollo deshuesado",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "salsa de tomate"
+          ],
+          "pasos": [
+            "Cociná el pollo completamente.",
+            "Desmenuzá o cortá según el corte.",
+            "Serví en tortillas con vegetales."
+          ]
+        },
+        {
+          "nombre": "Arroz con muslo de pollo deshuesado",
+          "minutos": 45,
+          "ingredientes_extra": [
+            "arroz",
+            "zanahoria",
+            "guisantes"
+          ],
+          "pasos": [
+            "Cociná totalmente el pollo.",
+            "Prepará el arroz con los vegetales.",
+            "Combiná y calentá bien antes de servir."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "P03",
+      "producto": "Pollo entero porcionado",
+      "categoria": "Pollo",
+      "precio_kg_crc": 3700,
+      "proteina_100g": 19,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Para comidas familiares y aprovechamiento de distintas piezas.",
+      "usos": [
+        "Al horno",
+        "Sopa",
+        "Arroz"
+      ],
+      "etiquetas": [
+        "Familiar"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Pollo entero porcionado al horno",
+          "minutos": 45,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "limón"
+          ],
+          "pasos": [
+            "Sazoná el pollo.",
+            "Horneá hasta que alcance cocción completa.",
+            "Serví con papas."
+          ]
+        },
+        {
+          "nombre": "Tacos de pollo entero porcionado",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "salsa de tomate"
+          ],
+          "pasos": [
+            "Cociná el pollo completamente.",
+            "Desmenuzá o cortá según el corte.",
+            "Serví en tortillas con vegetales."
+          ]
+        },
+        {
+          "nombre": "Arroz con pollo entero porcionado",
+          "minutos": 45,
+          "ingredientes_extra": [
+            "arroz",
+            "zanahoria",
+            "guisantes"
+          ],
+          "pasos": [
+            "Cociná totalmente el pollo.",
+            "Prepará el arroz con los vegetales.",
+            "Combiná y calentá bien antes de servir."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "P04",
+      "producto": "Fajitas de pollo",
+      "categoria": "Pollo",
+      "precio_kg_crc": 6250,
+      "proteina_100g": 22,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Corte práctico para saltear y armar platos rápidos.",
+      "usos": [
+        "Fajitas",
+        "Wraps",
+        "Bowl"
+      ],
+      "etiquetas": [
+        "Práctico"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Fajitas de pollo al horno",
+          "minutos": 45,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "limón"
+          ],
+          "pasos": [
+            "Sazoná el pollo.",
+            "Horneá hasta que alcance cocción completa.",
+            "Serví con papas."
+          ]
+        },
+        {
+          "nombre": "Tacos de fajitas de pollo",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "salsa de tomate"
+          ],
+          "pasos": [
+            "Cociná el pollo completamente.",
+            "Desmenuzá o cortá según el corte.",
+            "Serví en tortillas con vegetales."
+          ]
+        },
+        {
+          "nombre": "Arroz con fajitas de pollo",
+          "minutos": 45,
+          "ingredientes_extra": [
+            "arroz",
+            "zanahoria",
+            "guisantes"
+          ],
+          "pasos": [
+            "Cociná totalmente el pollo.",
+            "Prepará el arroz con los vegetales.",
+            "Combiná y calentá bien antes de servir."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "C01",
+      "producto": "Lomo de cerdo",
+      "categoria": "Cerdo",
+      "precio_kg_crc": 6200,
+      "proteina_100g": 21,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Suave y rendidor para preparaciones al horno o sartén.",
+      "usos": [
+        "Horno",
+        "Medallones",
+        "Tacos"
+      ],
+      "etiquetas": [
+        "Rendidor"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Lomo de cerdo al horno",
+          "minutos": 50,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "ensalada"
+          ],
+          "pasos": [
+            "Sazoná el cerdo.",
+            "Cociná completamente al horno o sartén.",
+            "Acompañá con papas y ensalada."
+          ]
+        },
+        {
+          "nombre": "Tacos con lomo de cerdo",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "tortillas",
+            "cebolla",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná bien el cerdo.",
+            "Cortá en tiras o desmenuzá.",
+            "Serví con tortillas, cebolla y limón."
+          ]
+        },
+        {
+          "nombre": "Bowl de lomo de cerdo",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "arroz",
+            "vegetales",
+            "aguacate"
+          ],
+          "pasos": [
+            "Cociná el cerdo.",
+            "Prepará arroz y vegetales.",
+            "Armá el bowl y serví."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "C02",
+      "producto": "Chuleta de cerdo",
+      "categoria": "Cerdo",
+      "precio_kg_crc": 5350,
+      "proteina_100g": 20,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Sencilla para plancha con acompañamientos.",
+      "usos": [
+        "Plancha",
+        "Casado",
+        "Horno"
+      ],
+      "etiquetas": [
+        "Familiar"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Chuleta de cerdo al horno",
+          "minutos": 50,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "ensalada"
+          ],
+          "pasos": [
+            "Sazoná el cerdo.",
+            "Cociná completamente al horno o sartén.",
+            "Acompañá con papas y ensalada."
+          ]
+        },
+        {
+          "nombre": "Tacos con chuleta de cerdo",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "tortillas",
+            "cebolla",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná bien el cerdo.",
+            "Cortá en tiras o desmenuzá.",
+            "Serví con tortillas, cebolla y limón."
+          ]
+        },
+        {
+          "nombre": "Bowl de chuleta de cerdo",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "arroz",
+            "vegetales",
+            "aguacate"
+          ],
+          "pasos": [
+            "Cociná el cerdo.",
+            "Prepará arroz y vegetales.",
+            "Armá el bowl y serví."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "C03",
+      "producto": "Cerdo desmechado",
+      "categoria": "Cerdo",
+      "precio_kg_crc": 6950,
+      "proteina_100g": 20,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Perfecto para distintas versiones de una misma base cocinada.",
+      "usos": [
+        "Tacos",
+        "Sándwiches",
+        "Bowl"
+      ],
+      "etiquetas": [
+        "Meal prep"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Cerdo desmechado al horno",
+          "minutos": 50,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "ensalada"
+          ],
+          "pasos": [
+            "Sazoná el cerdo.",
+            "Cociná completamente al horno o sartén.",
+            "Acompañá con papas y ensalada."
+          ]
+        },
+        {
+          "nombre": "Tacos con cerdo desmechado",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "tortillas",
+            "cebolla",
+            "limón"
+          ],
+          "pasos": [
+            "Cociná bien el cerdo.",
+            "Cortá en tiras o desmenuzá.",
+            "Serví con tortillas, cebolla y limón."
+          ]
+        },
+        {
+          "nombre": "Bowl de cerdo desmechado",
+          "minutos": 35,
+          "ingredientes_extra": [
+            "arroz",
+            "vegetales",
+            "aguacate"
+          ],
+          "pasos": [
+            "Cociná el cerdo.",
+            "Prepará arroz y vegetales.",
+            "Armá el bowl y serví."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "F01",
+      "producto": "Filete de pescado blanco",
+      "categoria": "Pescado",
+      "precio_kg_crc": 9500,
+      "proteina_100g": 20,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Alternativa suave para plancha y horno.",
+      "usos": [
+        "Tacos",
+        "Horno",
+        "Limón"
+      ],
+      "etiquetas": [
+        "Ligero"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Filete de pescado blanco al limón",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "limón",
+            "ajo",
+            "papas"
+          ],
+          "pasos": [
+            "Sazoná el pescado con ajo y limón.",
+            "Cociná completamente en sartén u horno.",
+            "Acompañá con papas."
+          ]
+        },
+        {
+          "nombre": "Tacos con filete de pescado blanco",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "tomate"
+          ],
+          "pasos": [
+            "Cociná completamente el pescado.",
+            "Troceá y repartí entre tortillas.",
+            "Terminá con vegetales."
+          ]
+        },
+        {
+          "nombre": "Bowl de filete de pescado blanco",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "pepino",
+            "zanahoria"
+          ],
+          "pasos": [
+            "Cociná completamente el pescado.",
+            "Prepará arroz y vegetales.",
+            "Armá el bowl."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "F02",
+      "producto": "Filete de salmón",
+      "categoria": "Pescado",
+      "precio_kg_crc": 16700,
+      "proteina_100g": 20,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Para una comida especial con vegetales.",
+      "usos": [
+        "Horno",
+        "Bowl",
+        "Plancha"
+      ],
+      "etiquetas": [
+        "Premium"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Filete de salmón al limón",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "limón",
+            "ajo",
+            "papas"
+          ],
+          "pasos": [
+            "Sazoná el pescado con ajo y limón.",
+            "Cociná completamente en sartén u horno.",
+            "Acompañá con papas."
+          ]
+        },
+        {
+          "nombre": "Tacos con filete de salmón",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "tortillas",
+            "repollo",
+            "tomate"
+          ],
+          "pasos": [
+            "Cociná completamente el pescado.",
+            "Troceá y repartí entre tortillas.",
+            "Terminá con vegetales."
+          ]
+        },
+        {
+          "nombre": "Bowl de filete de salmón",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "pepino",
+            "zanahoria"
+          ],
+          "pasos": [
+            "Cociná completamente el pescado.",
+            "Prepará arroz y vegetales.",
+            "Armá el bowl."
+          ]
+        }
+      ]
+    },
+    {
+      "sku": "T01",
+      "producto": "Pechuga de pavo",
+      "categoria": "Pavo",
+      "precio_kg_crc": 10700,
+      "proteina_100g": 24,
+      "disponible": true,
+      "stock_kg": null,
+      "descripcion": "Opción para combinar con vegetales y granos.",
+      "usos": [
+        "Bowl",
+        "Plancha",
+        "Wrap"
+      ],
+      "etiquetas": [
+        "Versátil"
+      ],
+      "imagen": "",
+      "recetas": [
+        {
+          "nombre": "Pechuga de pavo a la plancha",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "papas",
+            "ajo",
+            "ensalada"
+          ],
+          "pasos": [
+            "Sazoná el pavo.",
+            "Cociná completamente en sartén.",
+            "Serví con vegetales."
+          ]
+        },
+        {
+          "nombre": "Wrap de pechuga de pavo",
+          "minutos": 25,
+          "ingredientes_extra": [
+            "tortillas grandes",
+            "lechuga",
+            "tomate"
+          ],
+          "pasos": [
+            "Cociná completamente el pavo.",
+            "Cortá en tiras.",
+            "Armá el wrap."
+          ]
+        },
+        {
+          "nombre": "Bowl con pechuga de pavo",
+          "minutos": 30,
+          "ingredientes_extra": [
+            "arroz",
+            "aguacate",
+            "zanahoria"
+          ],
+          "pasos": [
+            "Cociná el pavo.",
+            "Prepará el arroz y los vegetales.",
+            "Armá el bowl."
+          ]
+        }
+      ]
+    }
+  ]
+}
